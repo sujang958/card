@@ -41,7 +41,7 @@ export const CardLogoHash: { [key: string]: any } = {
   discover: {
     src: "/img/cards/discover.svg",
     alt: "Discover",
-    height: 21 * 2,
+    height: 38 * 2,
     width: 127 * 2,
   },
 }

@@ -63,7 +63,7 @@ const Home: NextPage = () => {
               height={24 * 2.9}
             />
           </div>
-          <div className="cursor-poitner flex flex-col items-center justify-center">
+          <div className="cursor-poitner flex flex-col items-center justify-center -mt-3">
             {card.scheme && CardLogoHash[card.scheme] ? (
               <Image {...CardLogoHash[card.scheme]} />
             ) : (
